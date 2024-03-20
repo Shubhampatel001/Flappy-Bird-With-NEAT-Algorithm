@@ -32,6 +32,15 @@ Open the "NEAT Algo Flappy Bird.ipynb" notebook.
 Run the cells to train the NEAT algorithm and observe the AI gameplay.
 
 
+
+# Additional Folders
+
+
+Documentations: Contains abstracts, references, and notes related to the implementation.
+
+
+Visuals: Includes photos, videos, results, graphs, and block diagrams related to the game.
+
 # Notes
 Ensure that you have Python and Jupyter Notebook installed on your system before running the notebooks.
 
