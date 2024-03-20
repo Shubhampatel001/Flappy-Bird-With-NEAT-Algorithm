@@ -14,24 +14,22 @@ This command will install the necessary dependencies, including neat-python and 
 
 
 # Usage
-Manual Gameplay (Base Model Flappy Bird)
-To play Flappy Bird manually, follow these steps:
-
-Open the Base Model Flappy Bird.ipynb notebook in Jupyter Notebook or JupyterLab.
-
-Execute the notebook cells sequentially to play the game.
-
-Follow the instructions within the notebook to control the bird and navigate through the pipes.
+*To play Flappy Bird manually:*
 
 
-AI Gameplay (NEAT Algo Flappy Bird)
-To watch an AI agent play Flappy Bird using the NEAT algorithm, follow these steps:
 
-Open the NEAT Algo Flappy Bird.ipynb notebook in Jupyter Notebook or JupyterLab.
+Open the "Base Model Flappy Bird.ipynb" notebook.
+Execute the cells to control the bird and navigate through the pipes.
 
-Execute the notebook cells sequentially to train the NEAT algorithm and observe the AI playing the game.
 
-Follow the instructions within the notebook for further guidance on running and modifying the code.
+
+
+*To watch an AI agent play:*
+
+
+
+Open the "NEAT Algo Flappy Bird.ipynb" notebook.
+Run the cells to train the NEAT algorithm and observe the AI gameplay.
 
 
 # Notes
