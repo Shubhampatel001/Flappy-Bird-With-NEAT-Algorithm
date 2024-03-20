@@ -33,6 +33,14 @@ Run the cells to train the NEAT algorithm and observe the AI gameplay.
 
 
 
+# Notes
+Ensure that you have Python and Jupyter Notebook installed on your system before running the notebooks.
+
+
+# Configuration
+The feedforward.txt file contains the NEAT configuration parameters. You can adjust these parameters to change the behavior of the NEAT algorithm and experiment with different settings to improve the AI's performance.
+
+
 # Additional Folders
 
 
@@ -41,12 +49,7 @@ Documentations: Contains abstracts, references, and notes related to the impleme
 
 Visuals: Includes photos, videos, results, graphs, and block diagrams related to the game.
 
-# Notes
-Ensure that you have Python and Jupyter Notebook installed on your system before running the notebooks.
 
-
-# Configuration
-The feedforward.txt file contains the NEAT configuration parameters. You can adjust these parameters to change the behavior of the NEAT algorithm and experiment with different settings to improve the AI's performance.
 
  # Acknowledgments
 This project is based on the implementation of Flappy Bird by sourabhv.
