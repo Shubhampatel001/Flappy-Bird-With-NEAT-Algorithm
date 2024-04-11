@@ -9,7 +9,7 @@ git clone https://github.com/Shubhampatel001/Flappy-Bird-With-NEAT-Algorithm
 
 
 # Install the required Python modules using pip:
-```
+```python
 pip install -r requirements.txt
 ```
 
