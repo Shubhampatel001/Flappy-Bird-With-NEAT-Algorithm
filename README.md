@@ -28,7 +28,7 @@ Execute the cells to control the bird and navigate through the pipes.
 
 
 
-*To watch an AI agent play:*
+*To watch the AI agent train itself:*
 
 
 
@@ -36,6 +36,12 @@ Open the "NEAT Algo Flappy Bird.ipynb" notebook.
 Run the cells to train the NEAT algorithm and observe the AI gameplay.
 
 
+*To watch the AI agent play:*
+
+Run
+```python
+python test.py
+```
 
 # Notes
 Ensure that you have Python and Jupyter Notebook installed on your system before running the notebooks.
