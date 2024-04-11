@@ -3,7 +3,9 @@ This project implements the classic Flappy Bird game using the NEAT (NeuroEvolut
 
 
 # Clone the repository to your local machine:
+'''
 git clone https://github.com/your_username/Flappy-Bird-With-NEAT-Algorithm.git
+'''
 
 
 # Install the required Python modules using pip:
